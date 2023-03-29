@@ -1,0 +1,10 @@
+insert into post(id, title, content) values ( 1 , 'Test post 1' , 'Content 1a' );
+insert into post(id, title, content) values ( 2 , 'Test post 2' , 'Content 1b' );
+insert into post(id, title, content) values ( 3 , 'Test post 3' , 'Content 1c' );
+insert into post(id, title, content) values ( 4 , 'Test post 4' , 'Content 1d' );
+insert into post(id, title, content) values ( 5 , 'Test post 5' , 'Content 1e' );
+insert into post(id, title, content) values ( 6 , 'Test post 6' , 'Content 1f' );
+insert into post(id, title, content) values ( 7 , 'Test post 7' , 'Content 1g' );
+insert into post(id, title, content) values ( 8 , 'Test post 8' , 'Content 1h' );
+insert into post(id, title, content) values ( 9 , 'Test post 9' , 'Content 1i' );
+insert into post(id, title, content) values ( 10 , 'Test post 10' , 'Contentkl 1' );
